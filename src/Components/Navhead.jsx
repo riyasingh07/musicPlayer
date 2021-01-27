@@ -7,10 +7,10 @@ function Navhead() {
     <Navbar collapseOnSelect fixed="top" expand="lg" bg="dark" variant="dark">
       <Navbar.Brand href="#home">
         <img
-          alt=""
-          src="/logo.svg"
-          width="30"
-          height="30"
+          alt="logo"
+          src="./images/LogoMakr-5gF64s.png"
+          width="60"
+          height="60"
           className="d-inline-block align-top"
         />{" "}
         Music Player
