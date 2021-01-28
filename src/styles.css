@@ -78,4 +78,10 @@ html {
 .playbutton {
 border-radius: 50%;
 }
-
+.Cards.card {
+  border-width: 0px;
+  transition: transform .2s; /* Animation*/
+}
+.Cards:hover {
+  transform: scale(1.2);
+}
