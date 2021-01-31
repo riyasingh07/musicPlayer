@@ -10,8 +10,8 @@ html {
   height: 1024px;
 }
 .box {
-  height: 570px;
-  background-image: url("https://free4kwallpapers.com/uploads/originals/2015/08/11/music-wallpaper-1080p-i6.jpg");
+  height: 600px;
+  background-image: url("./images/a.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
